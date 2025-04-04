@@ -14,14 +14,22 @@ Follow these steps to get the project up and running on your local machine.
 - MongoDB instance (local or cloud, like MongoDB Atlas)  
 - Git  
 
----
+## 🧪 API Testing (Postman Collection)
+
+A Postman collection is included in the root directory for testing the API endpoints.
+
+### How to Use:
+1. Open Postman
+2. Click on **Import**
+3. Select the file: `ecommerce-api.postman_collection.json`
+4. Start testing endpoints like Register, Login, Product CRUD, etc.
 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/shubhankar-haldar-01/order-management-
 cd your-repo-name
 
 2. Create .env File
